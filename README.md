@@ -127,7 +127,3 @@ gpa-pro/
 ## Contributing
 
 Bug reports, suggestions, and pull requests are welcome. For substantial changes, describe the problem and proposed behavior before submitting a pull request.
-
-## License
-
-No license has been included in this repository. Add a license file only after deciding how you want others to use, modify, and distribute this project.

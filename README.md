@@ -1,4 +1,4 @@
-# GPA Pro — Academic Performance Tracker
+# GPA Pro: Academic Performance Tracker
 **Muhammad Usman**
 A desktop GPA management application built with **Python** and **Tkinter**. GPA Pro helps students record courses across semesters, calculate SGPA and CGPA, monitor academic progress, and plan future results.
 
